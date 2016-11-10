@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="module2-solution/styles.css">
-<title>Our Menu</title>
-<style >
+
   
 /********** Base styles **********/
 * {
@@ -194,34 +187,3 @@ h1 {
   }
 }
 
-
-</style>
-</head>
-<body>
-<h1>Our Menu</h1>
-
-<div class="conteiner">
-  <div class="row">
-    <div class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-     <div class="small_box" >Chicken</div>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </div>  
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12">
-     <div class="box">
-     <div class="small_box color2" >Beef</div>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </div>  
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-    <div class="small_box color3">Sushi</div>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </div>    
-    </div>
- </div>
-</div>
-
-</body>
-</html>
