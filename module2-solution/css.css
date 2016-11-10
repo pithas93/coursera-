@@ -10,9 +10,7 @@ h1 {
   color: black;
 
 }
-.small_box_wrap {
-    text-align: right;
-}
+
 .small_box{
   position: absolute;
   right: 0px;
